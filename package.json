@@ -1,0 +1,28 @@
+{
+  "name": "conv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby site",
+  "author": "Jenn Der",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.12.0",
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-styled-components": "^3.6.0",
+    "gatsby-source-filesystem": "^2.7.0",
+    "gatsby-transformer-remark": "^2.12.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.1"
+  }
+}
