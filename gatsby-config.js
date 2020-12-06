@@ -1,4 +1,7 @@
 module.exports = {
+  siteMetadata: {
+    title: "Jenn Der",
+  },
   plugins: [
     "gatsby-plugin-styled-components",
     "gatsby-transformer-remark",

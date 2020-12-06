@@ -1,8 +1,8 @@
 {
-  "name": "conv",
+  "name": "poratrait",
   "version": "1.0.0",
   "private": true,
-  "description": "My Gatsby site",
+  "description": "capstone project",
   "author": "Jenn Der",
   "keywords": [
     "gatsby"
@@ -22,7 +22,9 @@
     "gatsby-source-filesystem": "^2.7.0",
     "gatsby-transformer-remark": "^2.12.0",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.4.0",
     "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
     "styled-components": "^5.2.1"
   }
 }
