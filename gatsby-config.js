@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Jenn Der",
   },
+  pathPrefix: "/portrait",
   plugins: [
     "gatsby-plugin-styled-components",
     "gatsby-transformer-remark",
