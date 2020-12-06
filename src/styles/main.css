@@ -1,11 +1,11 @@
 @font-face {
   font-family: Tenor;
-  src: url("fonts/TenorSans-Regular.ttf");
+  src: url("./fonts/TenorSans-Regular.ttf");
 }
 
 @font-face {
   font-family: Josefin;
-  src: url("fonts/JosefinSans-Regular.ttf");
+  src: url("./fonts/JosefinSans-Regular.ttf");
 }
 
 .header {
