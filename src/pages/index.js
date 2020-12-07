@@ -16,7 +16,7 @@ const IndexPage = () => {
         <title> Jenn Der</title>
       </Helmet>
       <Container className="whole-page">
-        <div className="header">placeholder text for a good title</div>
+        <div className="header">no place like home</div>
         {/** the apartment */}
         <Single url={`${pathToPhoto}202012-portrait-0001.JPG`} />
         <Single url={`${pathToPhoto}202012-portrait-0014.JPG`} />
